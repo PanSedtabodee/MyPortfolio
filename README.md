@@ -1,3 +1,9 @@
+![ภาพ](https://github.com/PanSedtabodee/MyPortfolio/assets/88127782/835e10b7-b6bb-4cbc-bf99-d34864b95eef)
+
+:construction: Work in Progress
+
+Type "npm run start" , "npm start" to start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
