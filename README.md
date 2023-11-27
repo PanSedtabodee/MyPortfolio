@@ -1,5 +1,4 @@
-![Uploading ภาพ.png…]()
-
+![ภาพ](https://github.com/PanSedtabodee/MyPortfolio/assets/88127782/835e10b7-b6bb-4cbc-bf99-d34864b95eef)
 
 :construction: Work in Progress
 
